@@ -19,6 +19,11 @@
             "location": "/#project-layout", 
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Project layout"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "", 
+            "title": "About"
         }
     ]
 }
