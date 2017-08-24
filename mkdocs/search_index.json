@@ -24,6 +24,16 @@
             "location": "/#hello", 
             "text": "", 
             "title": "Hello"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "About ME", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#about-me", 
+            "text": "", 
+            "title": "About ME"
         }
     ]
 }
