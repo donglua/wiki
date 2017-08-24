@@ -1,7 +1,6 @@
 site_name: My Docs
 
-docs/
-  index.md
-  about.md
-
+pages:
+    - Home: index.md
+    - About: about.md
 
